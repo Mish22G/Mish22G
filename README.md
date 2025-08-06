@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hi there I'm Mishkah 
+- 🎓 BA Humanities student at Stellensbosch University
+- 💡 Aspiring Informatics major 
+- 📚 Lover of YA fiction and storytelling
 
-<!--
-**Mish22G/Mish22G** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛠 skills and tools
+- beginner in: HTML/CSS
+- learning: Git and Github
 
-Here are some ideas to get you started:
+### 📚 Interests
+- Reading **young adult novels** (especially fantasy and coming-of-age)
+- Exploring how tech can empower creativity and education
+- Dipping my toes into coding and digital tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⭐ Goals
+- Learn the Github flow
+- Keep growing one line of code at a time 😉
